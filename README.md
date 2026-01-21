@@ -1,2 +1,2 @@
 # Learning about Version Control
-#### **Author:** Jingyuan Liu
+**Author:** Jingyuan Liu
